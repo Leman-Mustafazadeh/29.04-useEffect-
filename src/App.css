@@ -1,0 +1,52 @@
+
+
+body{
+  overflow-x: hidden;
+}
+
+.sign-in {
+    
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    z-index: 100;
+    right: 0px;
+    top: 5px;
+}
+.form2{
+  margin: 20px;
+    box-shadow: #f6f5f7;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+     border: 1px solid rgb(149, 24, 57);
+     padding: 10px;
+     border-radius: 5px;
+     background-color:white;
+   
+     
+}
+
+
+.Lem{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+.welcome{
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: start !important;
+  gap: 20px  !important;
+  position: relative !important;
+  left: 100px  !important;
+  margin: 10px !important;
+}
